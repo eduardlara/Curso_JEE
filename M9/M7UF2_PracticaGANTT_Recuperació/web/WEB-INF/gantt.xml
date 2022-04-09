@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectes>
+    <projecte name="WBS 1 Summary Element 1" desc="57" codi="24">
+        <FromDate>2015-07-25 00:00:00</FromDate>
+        <ToDate>2015-10-25 23:59:00</ToDate>
+        <tasques>
+            <tasca name="WBS 1.1 Activity A" desc="75" data_ini="2015-07-25 00:00:00"  data_fin="2015-10-01 23:59:00"/>
+            <tasca name="WBS 1.2 Activity B" desc="67" data_ini="2015-07-25 00:00:00"  data_fin="2015-08-15 23:59:00"/>
+            <tasca name="WBS 1.3 Activity C" desc="50" data_ini="2015-08-15 00:00:00"  data_fin="2015-10-25 23:59:00"/>
+            <tasca name="WBS 1.4 Activity D" desc="0" data_ini="2015-08-15 00:00:00"  data_fin="2015-10-25 23:59:00"/>
+        </tasques>
+    </projecte>
+    <projecte name="WBS 2 Summary Element 2" desc="0" codi="34">
+        <FromDate>2015-08-15 00:00:00</FromDate>
+        <ToDate>2015-10-25 23:59:00</ToDate>
+        <tasques>
+            <tasca name="WBS 2.1 Activity E" desc="0" data_ini="2015-08-15 00:00:00"  data_fin="2015-08-26 23:59:00"/>
+            <tasca name="WBS 2.2 Activity F" desc="0" data_ini="2015-08-26 00:00:00"  data_fin="2015-10-01 23:59:00"/>
+            <tasca name="WBS 2.3 Activity G" desc="0" data_ini="2015-10-01 00:00:00"  data_fin="2015-10-19 23:59:00"/>
+        </tasques>
+    </projecte>
+</projectes>

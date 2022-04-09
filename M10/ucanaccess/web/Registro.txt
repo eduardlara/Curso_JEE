@@ -1,0 +1,119 @@
+Usuario: eduard IP: Lluis-PC Libro consultado: gran
+ Respuesta: 
+00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;<br>Usuario: EDUARD IP: DESA1996 Libro consultado: fernando
+ Respuesta: 
+00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;<br>00000008;linux;fernando sabater perez;ariel;6/9/2006 0:00:00;informática;<br>Usuario: eduard IP: DESA1996 Libro consultado: gran
+ Respuesta: 
+00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;<br>Usuario: eduard IP: DESA1996 Libro consultado: el
+ Respuesta: 
+00000001;harry potter y el prisionero de azkabán;j.k rowins;salamandra;26/9/2006 0:00:00;infantil;<br>00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;<br>00000005;codigo da vinci;dan brown;ariel;29/9/2006 0:00:00;ficción;<br>00000008;linux;fernando sabater perez;ariel;6/9/2006 0:00:00;informática;<br>00000009;el tumulto;h.p lovercraft;debate;6/9/2006 0:00:00;ciencia;<br>00000011;el tiempo;j.k rowins;salamandra;7/9/2006 0:00:00;ciencia;<br>00000012;dietas mediterraneas;arturo perez lopez;ariel;16/9/2006 0:00:00;astronomia;<br>00000013;angeles y demonios;dan brown;ariel;17/9/2006 0:00:00;ficción;<br>00000014;fortaleza digital;dan brown;ariel;6/10/2006 0:00:00;ficción;<br>00000016;piel de tambor;arturo perez lopez;alfaguara;16/10/2006 0:00:00;ficción;<br>00000017;tiempos de colera;gabriel garcia garcia;oveja negra;1/9/2006 0:00:00;ocio;<br>00000018;noticia de un secuestro;gabriel garcia garcia;alfaguara;7/12/2006 0:00:00;ficción;<br>Usuario: eduard IP: DESA1996 Libro consultado: todo
+ Respuesta: 
+Usuario: eduard IP: DESA1996 Libro consultado: por
+ Respuesta: 
+Usuario: eduard IP: DESA1996 Libro consultado: que
+ Respuesta: 
+Usuario: eduard IP: DESA1996 Libro consultado: los
+ Respuesta: 
+Usuario: eduard IP: DESA1996 Libro consultado: fernando
+ Respuesta: 
+00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;<br>00000008;linux;fernando sabater perez;ariel;6/9/2006 0:00:00;informática;<br>Usuario: eduard IP: DESA1996 Libro consultado: perez
+ Respuesta: 
+00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;<br>00000004;la carta esferica;arturo perez lopez;salamandra;29/9/2006 0:00:00;ficción;<br>00000008;linux;fernando sabater perez;ariel;6/9/2006 0:00:00;informática;<br>00000012;dietas mediterraneas;arturo perez lopez;ariel;16/9/2006 0:00:00;astronomia;<br>00000015;capitan alatriste;arturo perez lopez;alfaguara;9/10/2006 0:00:00;ficción;<br>00000016;piel de tambor;arturo perez lopez;alfaguara;16/10/2006 0:00:00;ficción;<br>Usuario: eduard IP: DESA1996 Libro consultado: lopez
+ Respuesta: 
+00000004;la carta esferica;arturo perez lopez;salamandra;29/9/2006 0:00:00;ficción;<br>00000007;protocolo;jose lopez murillo;salamandra;6/9/2006 0:00:00;social;<br>00000012;dietas mediterraneas;arturo perez lopez;ariel;16/9/2006 0:00:00;astronomia;<br>00000015;capitan alatriste;arturo perez lopez;alfaguara;9/10/2006 0:00:00;ficción;<br>00000016;piel de tambor;arturo perez lopez;alfaguara;16/10/2006 0:00:00;ficción;<br>Usuario: eduard IP: Lluis-PC Libro consultado: la
+ Respuesta: 
+00000001;harry potter y el prisionero de azkabán;j.k rowins;salamandra;26/9/2006 0:00:00;infantil;<br>00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;<br>00000003;romeo y julieta;william shakespeare;salamandra;26/9/2006 0:00:00;romantica;<br>00000004;la carta esferica;arturo perez lopez;salamandra;29/9/2006 0:00:00;ficción;<br>00000006;mucho ruido y pocas nueces;william shakespeare;salamandra;29/9/2006 0:00:00;romantica;<br>00000007;protocolo;jose lopez murillo;salamandra;6/9/2006 0:00:00;social;<br>00000011;el tiempo;j.k rowins;salamandra;7/9/2006 0:00:00;ciencia;<br>00000015;capitan alatriste;arturo perez lopez;alfaguara;9/10/2006 0:00:00;ficción;<br>Usuario: eduard IP: Lluis-PC Libro consultado: 
+ Respuesta: 
+00000001;harry potter y el prisionero de azkabán;j.k rowins;salamandra;26/9/2006 0:00:00;infantil;<br>00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;<br>00000003;romeo y julieta;william shakespeare;salamandra;26/9/2006 0:00:00;romantica;<br>00000004;la carta esferica;arturo perez lopez;salamandra;29/9/2006 0:00:00;ficción;<br>00000005;codigo da vinci;dan brown;ariel;29/9/2006 0:00:00;ficción;<br>00000006;mucho ruido y pocas nueces;william shakespeare;salamandra;29/9/2006 0:00:00;romantica;<br>00000007;protocolo;jose lopez murillo;salamandra;6/9/2006 0:00:00;social;<br>00000008;linux;fernando sabater perez;ariel;6/9/2006 0:00:00;informática;<br>00000009;el tumulto;h.p lovercraft;debate;6/9/2006 0:00:00;ciencia;<br>00000010;personajes miticos;richard holligham;debate;7/9/2006 0:00:00;entretenimiento;<br>00000011;el tiempo;j.k rowins;salamandra;7/9/2006 0:00:00;ciencia;<br>00000012;dietas mediterraneas;arturo perez lopez;ariel;16/9/2006 0:00:00;astronomia;<br>00000013;angeles y demonios;dan brown;ariel;17/9/2006 0:00:00;ficción;<br>00000014;fortaleza digital;dan brown;ariel;6/10/2006 0:00:00;ficción;<br>00000015;capitan alatriste;arturo perez lopez;alfaguara;9/10/2006 0:00:00;ficción;<br>00000016;piel de tambor;arturo perez lopez;alfaguara;16/10/2006 0:00:00;ficción;<br>00000017;tiempos de colera;gabriel garcia garcia;oveja negra;1/9/2006 0:00:00;ocio;<br>00000018;noticia de un secuestro;gabriel garcia garcia;alfaguara;7/12/2006 0:00:00;ficción;<br>Usuario: eduard IP: Lluis-PC Libro consultado: gran
+ Respuesta: 
+00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;<br>Usuario: eduard IP: Lluis-PC Libro consultado: perez
+ Respuesta: 
+00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;<br>00000004;la carta esferica;arturo perez lopez;salamandra;29/9/2006 0:00:00;ficción;<br>00000008;linux;fernando sabater perez;ariel;6/9/2006 0:00:00;informática;<br>00000012;dietas mediterraneas;arturo perez lopez;ariel;16/9/2006 0:00:00;astronomia;<br>00000015;capitan alatriste;arturo perez lopez;alfaguara;9/10/2006 0:00:00;ficción;<br>00000016;piel de tambor;arturo perez lopez;alfaguara;16/10/2006 0:00:00;ficción;<br>Usuario: eduard IP: Lluis-PC Libro consultado: la
+ Respuesta: 
+00000001;harry potter y el prisionero de azkabán;j.k rowins;salamandra;26/9/2006 0:00:00;infantil;<br>00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;<br>00000003;romeo y julieta;william shakespeare;salamandra;26/9/2006 0:00:00;romantica;<br>00000004;la carta esferica;arturo perez lopez;salamandra;29/9/2006 0:00:00;ficción;<br>00000006;mucho ruido y pocas nueces;william shakespeare;salamandra;29/9/2006 0:00:00;romantica;<br>00000007;protocolo;jose lopez murillo;salamandra;6/9/2006 0:00:00;social;<br>00000011;el tiempo;j.k rowins;salamandra;7/9/2006 0:00:00;ciencia;<br>00000015;capitan alatriste;arturo perez lopez;alfaguara;9/10/2006 0:00:00;ficción;<br>Usuario: eduard IP: Lluis-PC Libro consultado: lopez
+ Respuesta: 
+00000004;la carta esferica;arturo perez lopez;salamandra;29/9/2006 0:00:00;ficción;<br>00000007;protocolo;jose lopez murillo;salamandra;6/9/2006 0:00:00;social;<br>00000012;dietas mediterraneas;arturo perez lopez;ariel;16/9/2006 0:00:00;astronomia;<br>00000015;capitan alatriste;arturo perez lopez;alfaguara;9/10/2006 0:00:00;ficción;<br>00000016;piel de tambor;arturo perez lopez;alfaguara;16/10/2006 0:00:00;ficción;<br>Usuario: eduard IP: Lluis-PC Libro consultado: la
+ Respuesta: 
+00000001;harry potter y el prisionero de azkabán;j.k rowins;salamandra;26/9/2006 0:00:00;infantil;<br>00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;<br>00000003;romeo y julieta;william shakespeare;salamandra;26/9/2006 0:00:00;romantica;<br>00000004;la carta esferica;arturo perez lopez;salamandra;29/9/2006 0:00:00;ficción;<br>00000006;mucho ruido y pocas nueces;william shakespeare;salamandra;29/9/2006 0:00:00;romantica;<br>00000007;protocolo;jose lopez murillo;salamandra;6/9/2006 0:00:00;social;<br>00000011;el tiempo;j.k rowins;salamandra;7/9/2006 0:00:00;ciencia;<br>00000015;capitan alatriste;arturo perez lopez;alfaguara;9/10/2006 0:00:00;ficción;<br>Usuario: eduard IP: Lluis-PC Libro consultado: 
+ Respuesta: 
+00000001;harry potter y el prisionero de azkabán;j.k rowins;salamandra;26/9/2006 0:00:00;infantil;<br>00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;<br>00000003;romeo y julieta;william shakespeare;salamandra;26/9/2006 0:00:00;romantica;<br>00000004;la carta esferica;arturo perez lopez;salamandra;29/9/2006 0:00:00;ficción;<br>00000005;codigo da vinci;dan brown;ariel;29/9/2006 0:00:00;ficción;<br>00000006;mucho ruido y pocas nueces;william shakespeare;salamandra;29/9/2006 0:00:00;romantica;<br>00000007;protocolo;jose lopez murillo;salamandra;6/9/2006 0:00:00;social;<br>00000008;linux;fernando sabater perez;ariel;6/9/2006 0:00:00;informática;<br>00000009;el tumulto;h.p lovercraft;debate;6/9/2006 0:00:00;ciencia;<br>00000010;personajes miticos;richard holligham;debate;7/9/2006 0:00:00;entretenimiento;<br>00000011;el tiempo;j.k rowins;salamandra;7/9/2006 0:00:00;ciencia;<br>00000012;dietas mediterraneas;arturo perez lopez;ariel;16/9/2006 0:00:00;astronomia;<br>00000013;angeles y demonios;dan brown;ariel;17/9/2006 0:00:00;ficción;<br>00000014;fortaleza digital;dan brown;ariel;6/10/2006 0:00:00;ficción;<br>00000015;capitan alatriste;arturo perez lopez;alfaguara;9/10/2006 0:00:00;ficción;<br>00000016;piel de tambor;arturo perez lopez;alfaguara;16/10/2006 0:00:00;ficción;<br>00000017;tiempos de colera;gabriel garcia garcia;oveja negra;1/9/2006 0:00:00;ocio;<br>00000018;noticia de un secuestro;gabriel garcia garcia;alfaguara;7/12/2006 0:00:00;ficción;<br>Usuario: eduard IP: Lluis-PC Libro consultado: lopez
+ Respuesta: 
+00000004;la carta esferica;arturo perez lopez;salamandra;29/9/2006 0:00:00;ficción;
+00000007;protocolo;jose lopez murillo;salamandra;6/9/2006 0:00:00;social;
+00000012;dietas mediterraneas;arturo perez lopez;ariel;16/9/2006 0:00:00;astronomia;
+00000015;capitan alatriste;arturo perez lopez;alfaguara;9/10/2006 0:00:00;ficción;
+00000016;piel de tambor;arturo perez lopez;alfaguara;16/10/2006 0:00:00;ficción;
+Usuario: eduard IP: Lluis-PC Libro consultado: grab
+ Respuesta: 
+Usuario: eduard IP: Lluis-PC Libro consultado: gran
+ Respuesta: 
+00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;
+Usuario: eduard IP: Lluis-PC Libro consultado: el
+ Respuesta: 
+00000001;harry potter y el prisionero de azkabán;j.k rowins;salamandra;26/9/2006 0:00:00;infantil;
+00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;
+00000005;codigo da vinci;dan brown;ariel;29/9/2006 0:00:00;ficción;
+00000008;linux;fernando sabater perez;ariel;6/9/2006 0:00:00;informática;
+00000009;el tumulto;h.p lovercraft;debate;6/9/2006 0:00:00;ciencia;
+00000011;el tiempo;j.k rowins;salamandra;7/9/2006 0:00:00;ciencia;
+00000012;dietas mediterraneas;arturo perez lopez;ariel;16/9/2006 0:00:00;astronomia;
+00000013;angeles y demonios;dan brown;ariel;17/9/2006 0:00:00;ficción;
+00000014;fortaleza digital;dan brown;ariel;6/10/2006 0:00:00;ficción;
+00000016;piel de tambor;arturo perez lopez;alfaguara;16/10/2006 0:00:00;ficción;
+00000017;tiempos de colera;gabriel garcia garcia;oveja negra;1/9/2006 0:00:00;ocio;
+00000018;noticia de un secuestro;gabriel garcia garcia;alfaguara;7/12/2006 0:00:00;ficción;
+Usuario: ed IP: Lluis-PC Libro consultado: el
+ Respuesta: 
+00000001;harry potter y el prisionero de azkabán;j.k rowins;salamandra;26/9/2006 0:00:00;infantil;
+00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;
+00000005;codigo da vinci;dan brown;ariel;29/9/2006 0:00:00;ficción;
+00000008;linux;fernando sabater perez;ariel;6/9/2006 0:00:00;informática;
+00000009;el tumulto;h.p lovercraft;debate;6/9/2006 0:00:00;ciencia;
+00000011;el tiempo;j.k rowins;salamandra;7/9/2006 0:00:00;ciencia;
+00000012;dietas mediterraneas;arturo perez lopez;ariel;16/9/2006 0:00:00;astronomia;
+00000013;angeles y demonios;dan brown;ariel;17/9/2006 0:00:00;ficción;
+00000014;fortaleza digital;dan brown;ariel;6/10/2006 0:00:00;ficción;
+00000016;piel de tambor;arturo perez lopez;alfaguara;16/10/2006 0:00:00;ficción;
+00000017;tiempos de colera;gabriel garcia garcia;oveja negra;1/9/2006 0:00:00;ocio;
+00000018;noticia de un secuestro;gabriel garcia garcia;alfaguara;7/12/2006 0:00:00;ficción;
+Usuario: ed IP: Lluis-PC Libro consultado: el
+ Respuesta: 
+00000001;harry potter y el prisionero de azkabán;j.k rowins;salamandra;26/9/2006 0:00:00;infantil;
+00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;
+00000005;codigo da vinci;dan brown;ariel;29/9/2006 0:00:00;ficción;
+00000008;linux;fernando sabater perez;ariel;6/9/2006 0:00:00;informática;
+00000009;el tumulto;h.p lovercraft;debate;6/9/2006 0:00:00;ciencia;
+00000011;el tiempo;j.k rowins;salamandra;7/9/2006 0:00:00;ciencia;
+00000012;dietas mediterraneas;arturo perez lopez;ariel;16/9/2006 0:00:00;astronomia;
+00000013;angeles y demonios;dan brown;ariel;17/9/2006 0:00:00;ficción;
+00000014;fortaleza digital;dan brown;ariel;6/10/2006 0:00:00;ficción;
+00000016;piel de tambor;arturo perez lopez;alfaguara;16/10/2006 0:00:00;ficción;
+00000017;tiempos de colera;gabriel garcia garcia;oveja negra;1/9/2006 0:00:00;ocio;
+00000018;noticia de un secuestro;gabriel garcia garcia;alfaguara;7/12/2006 0:00:00;ficción;
+Usuario: ed IP: DESA1996 Libro consultado: la
+ Respuesta: 
+00000001;harry potter y el prisionero de azkabán;j.k rowins;salamandra;26/9/2006 0:00:00;infantil;
+00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;
+00000003;romeo y julieta;william shakespeare;salamandra;26/9/2006 0:00:00;romantica;
+00000004;la carta esferica;arturo perez lopez;salamandra;29/9/2006 0:00:00;ficción;
+00000006;mucho ruido y pocas nueces;william shakespeare;salamandra;29/9/2006 0:00:00;romantica;
+00000007;protocolo;jose lopez murillo;salamandra;6/9/2006 0:00:00;social;
+00000011;el tiempo;j.k rowins;salamandra;7/9/2006 0:00:00;ciencia;
+00000015;capitan alatriste;arturo perez lopez;alfaguara;9/10/2006 0:00:00;ficción;
+Usuario: ED IP: ESPAI-A1-07 Libro consultado: LA
+ Respuesta: 
+00000001;harry potter y el prisionero de azkabán;j.k rowins;salamandra;26/9/2006 0:00:00;infantil;
+00000002;el gran laberinto;fernando sabater perez;ariel;26/9/2006 0:00:00;ficción;
+00000003;romeo y julieta;william shakespeare;salamandra;26/9/2006 0:00:00;romantica;
+00000004;la carta esferica;arturo perez lopez;salamandra;29/9/2006 0:00:00;ficción;
+00000006;mucho ruido y pocas nueces;william shakespeare;salamandra;29/9/2006 0:00:00;romantica;
+00000007;protocolo;jose lopez murillo;salamandra;6/9/2006 0:00:00;social;
+00000011;el tiempo;j.k rowins;salamandra;7/9/2006 0:00:00;ciencia;
+00000015;capitan alatriste;arturo perez lopez;alfaguara;9/10/2006 0:00:00;ficción;
+Usuario: ed IP: Lluis-PC Libro consultado: lopez
+ Respuesta: 
+00000004;la carta esferica;arturo perez lopez;salamandra;29/9/2006 0:00:00;ficción;
+00000007;protocolo;jose lopez murillo;salamandra;6/9/2006 0:00:00;social;
+00000012;dietas mediterraneas;arturo perez lopez;ariel;16/9/2006 0:00:00;astronomia;
+00000015;capitan alatriste;arturo perez lopez;alfaguara;9/10/2006 0:00:00;ficción;
+00000016;piel de tambor;arturo perez lopez;alfaguara;16/10/2006 0:00:00;ficción;
